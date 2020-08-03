@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android03Layout</string>
+    <string name="app_name2">kim</string>
+    <string name="check_job1">dec1</string>
+    <string name="check_job2">dec1</string>
+        <string name="switch_sw">dec1</string>
+</resources>

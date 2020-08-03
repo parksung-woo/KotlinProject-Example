@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android04member</string>
+    <string name="button">Send</string>
+    <string name="button_del">Delete</string>
+    <string name="tv_title_list">ListPage</string>
+    <string name="tv_title_info">InfoPage</string>
+    <string name="tv_num">NUM</string>
+</resources>
